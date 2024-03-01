@@ -11,6 +11,8 @@ Choose between Easy (1-100), Medium (1-500), and Hard (1-1000) modes.
 Players receive hints based on their performance, with additional hints unlocked as they progress.
 ### Input validation:
 The game ensures that players enter valid numerical inputs and provides prompts for invalid inputs.
+### Number of tries limit:
+Players have a limit of 10 tries to guess the number. Exceeding this limit results in a game over.
 ## How to Play
 1. Clone this repository to your local machine.
 2. Compile the main.cpp file using your preferred C++ compiler.
