@@ -12,10 +12,10 @@ Players receive hints based on their performance, with additional hints unlocked
 ### Input validation:
 The game ensures that players enter valid numerical inputs and provides prompts for invalid inputs.
 ## How to Play
-Clone this repository to your local machine.
-Compile the main.cpp file using your preferred C++ compiler.
-Run the compiled executable to start the game.
-Follow the on-screen instructions to choose a difficulty level and guess the number.
+1. Clone this repository to your local machine.
+2. Compile the main.cpp file using your preferred C++ compiler.
+3. Run the compiled executable to start the game.
+4. Follow the on-screen instructions to choose a difficulty level and guess the number.
 ## Feedback and Suggestions
 I'm constantly looking to improve this project, so feel free to share any feedback, suggestions, or bug reports by opening an issue or submitting a pull request. Your input is highly appreciated!
 
